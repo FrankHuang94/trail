@@ -1,0 +1,10 @@
+companies:
+  - name: Broadcom
+    ticker: AVGO
+    ir_url: https://investors.broadcom.com/
+    # Optional: only include links containing one of these terms.
+    include_keywords:
+      - press
+      - release
+      - news
+      - investor
